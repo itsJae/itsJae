@@ -1,5 +1,4 @@
-# Lim Woojae
-
+# Lim Woojae 
 ### 🚩 Vision & Goals
 + Changing the world by creating services driven by innovative ideas.
 + Being a young leader in the computer science field.
@@ -52,5 +51,6 @@ I have experienced education from different countries.
 
 <br/><br/>
 
-![itsJae's github stats](https://github-readme-stats.vercel.app/api?username=itsJae&show_icons=true)
-[![itsJae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/itsJae)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Lim Woojae profile views](https://u8views.com/api/v1/github/profiles/86905323/views/day-week-month-total-count.svg)](https://u8views.com/github/itsJae)
