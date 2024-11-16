@@ -5,9 +5,9 @@
 + Contributing to open-source projects.
 + Pushing the boundaries of AI and machine learning, especially __big data__.
 
-## How Do I Achieve Vision & Goals?
+# How Do I Achieve Vision & Goals?
 
-### 🎯 Focusing to learn
+## 🎯 Focusing to learn
 + React.js
 + Next.js
 + Web Optimization
@@ -15,7 +15,7 @@
 + REST API
 + Mongo DB
 
-### 🛠 Skills
+## 🛠 Skills
 + Programming languages
   + HTML
   + CSS
@@ -27,7 +27,7 @@
   + Framer
   + Fluent in English and Korean.
   
-### ✨ Experience
+## ✨ Experience
 + Contributed to the uni IT club.
 
 
@@ -36,7 +36,7 @@
   + I was a subcommittee of the technical team.
   + Pushed a plan to hold a hackathon with Omnitool and regularly had a meeting to dicuss about it.
 
-### 💒 Educatoin
+## 💒 Educatoin
 I have experienced education from different countries.
 
 
@@ -45,7 +45,7 @@ I have experienced education from different countries.
 + Singapore Institute of Management, Singapore (current).
 + University of Wollongong, Australia (future).
 
-### 👀 Visit Other Platforms than Github
+## 👀 Visit Other Platforms than Github
 + <https://jaylog.hashnode.dev/> - Personal blog
 + <https://leetcode.com/u/mujaeim/> - LeetCode
 
