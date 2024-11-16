@@ -29,9 +29,18 @@
   + Fluent in English and Korean.
   
 ### ✨ Experience
++ Contributed to the uni IT club.
+
+
+  + Adapted light/dark theme on the club website.
+  + Suggested ideas about functional & UX matters.
+  + I was a subcommittee of the technical team.
+  + Pushed a plan to hold a hackathon with Omnitool and regularly had a meeting to dicuss about it.
 
 ### 💒 Educatoin
 I have experienced education from different countries.
+
+
 + Pungdong Middle School, South Korea.
 + Brookswood Secondary School, Canada.
 + Singapore Institute of Management, Singapore (current).
@@ -41,7 +50,7 @@ I have experienced education from different countries.
 + <https://jaylog.hashnode.dev/> - Personal blog
 + <https://leetcode.com/u/mujaeim/> - LeetCode
 
-
+<br/><br/>
 
 ![itsJae's github stats](https://github-readme-stats.vercel.app/api?username=itsJae&show_icons=true)
 [![itsJae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itsJae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/itsJae)
