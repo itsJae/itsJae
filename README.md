@@ -21,6 +21,7 @@
   + CSS
   + JavaScript
   + React.js
+  + Jest
  
 + Non-programming
   + Notion
