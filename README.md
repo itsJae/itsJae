@@ -17,18 +17,20 @@
 + Hadoop
 
 ## 🛠 Skills
-+ Programming languages
++ Programming-related
   + HTML
   + CSS
   + JavaScript
   + React.js
   + Jest
+  + Docker
  
 + Non-programming
   + Notion
   + Framer
   + Fluent in English and Korean.
-  
+  + Git & Github
+ 
 ## ✨ Experience
 + Contributed to the uni IT club.
 
