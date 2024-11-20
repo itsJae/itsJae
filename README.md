@@ -14,6 +14,7 @@
 + Network
 + REST API
 + Mongo DB
++ Hadoop
 
 ## 🛠 Skills
 + Programming languages
