@@ -8,8 +8,6 @@
 # How Do I Achieve Vision & Goals?
 
 ## 🎯 Focusing to learn
-+ React.js
-+ Next.js
 + Web Optimization
 + Network
 + REST API
@@ -17,11 +15,14 @@
 + Hadoop
 
 ## 🛠 Skills
-+ Programming-related
++ Strong
   + HTML
   + CSS
   + JavaScript
   + React.js
+ 
++ Knowledgeable
+  + Next.js
   + Jest
   + Docker
  
@@ -30,15 +31,6 @@
   + Framer
   + Fluent in English and Korean.
   + Git & Github
- 
-## ✨ Experience
-+ Contributed to the uni IT club.
-
-
-  + Adapted light/dark theme on the club website.
-  + Suggested ideas about functional & UX matters.
-  + I was a subcommittee of the technical team.
-  + Pushed a plan to hold a hackathon with Omnitool and regularly had a meeting to dicuss about it.
 
 ## 💒 Educatoin
 I have experienced education from different countries.
