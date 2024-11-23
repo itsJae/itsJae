@@ -7,13 +7,6 @@
 
 # How Do I Achieve Vision & Goals?
 
-## 🎯 Focusing to learn
-+ Web Optimization
-+ Network
-+ REST API
-+ Mongo DB
-+ Hadoop
-
 ## 🛠 Skills
 + Strong
   + HTML
@@ -31,6 +24,14 @@
   + Framer
   + Fluent in English and Korean.
   + Git & Github
+
+## 🎯 Focusing to learn
++ Web Optimization
++ Network
++ REST API
++ Mongo DB
++ Hadoop
+
 
 ## 💒 Educatoin
 I have experienced education from different countries.
