@@ -8,16 +8,14 @@
 # How Do I Achieve Vision & Goals?
 
 ## 🛠 Skills
-+ Strong
-  + HTML
-  + CSS
-  + JavaScript
-  + React.js
+
++ Python
++ HTML
++ CSS
++ JavaScript
++ React.js
++ MySQL
  
-+ Knowledgeable
-  + Next.js
-  + Jest
-  + Docker
  
 + Non-programming
   + Notion
