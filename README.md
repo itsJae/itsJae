@@ -10,9 +10,7 @@
 ## 🛠 Skills
 
 + Python
-+ HTML
-+ CSS
-+ JavaScript
++ HTML/CSS/JavaScript
 + React.js
 + MySQL
  
@@ -24,9 +22,7 @@
   + Git & Github
 
 ## 🎯 Focusing to learn
-+ Web Optimization
 + Network
-+ REST API
 + Mongo DB
 + Hadoop
 
