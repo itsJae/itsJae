@@ -2,8 +2,6 @@
 ### 🚩 Vision & Goals
 + Changing the world by creating services driven by innovative ideas.
 + Being a young leader in the computer science field.
-+ Contributing to open-source projects.
-+ Pushing the boundaries of AI and machine learning, especially __big data__.
 
 # How Do I Achieve Vision & Goals?
 
@@ -11,20 +9,20 @@
 
 + Python
 + HTML/CSS/JavaScript
-+ React.js
 + MySQL
  
  
 + Non-programming
   + Notion
   + Framer
-  + Fluent in English and Korean.
   + Git & Github
+  + Fluent in English and Korean.
+    
 
 ## 🎯 Focusing to learn
-+ Network
-+ Mongo DB
-+ Hadoop
++ Data Structure and Algorithms
++ React.js
++ Next.js
 
 
 ## 💒 Educatoin
@@ -33,8 +31,8 @@ I have experienced education from different countries.
 
 + Pungdong Middle School, South Korea.
 + Brookswood Secondary School, Canada.
-+ Singapore Institute of Management, Singapore (current).
-+ University of Wollongong, Australia (future).
++ Singapore Institute of Management, Singapore.
++ Bachelor of Comptuer Science @University of New South Wales, Australia.
 
 ## 👀 Visit Other Platforms than Github
 + <https://jaylog.hashnode.dev/> - Personal blog
