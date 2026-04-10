@@ -1,6 +1,6 @@
 # Lim Woojae 
 
-## 🛠 Skills
+## Skills
 
 + Python
 + MySQL
@@ -11,9 +11,10 @@
 ## Focusing to learn
 + Data Structure and Algorithms
 + C++
-+ Competitve Programming
++ Mongo DB
 + React.js
 + Next.js
++ Competitve Programming
 
 
 ## Educatoin
