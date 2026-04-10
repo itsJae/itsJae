@@ -1,31 +1,22 @@
 # Lim Woojae 
-### 🚩 Vision & Goals
-+ Changing the world by creating services driven by innovative ideas.
-+ Being a young leader in the computer science field.
-
-# How Do I Achieve Vision & Goals?
 
 ## 🛠 Skills
 
 + Python
-+ HTML/CSS/JavaScript
 + MySQL
- 
- 
-+ Non-programming
-  + Notion
-  + Framer
-  + Git & Github
-  + Fluent in English and Korean.
-    
++ C
++ HTML/CSS/JavaScript
+  
 
-## 🎯 Focusing to learn
+## Focusing to learn
 + Data Structure and Algorithms
++ C++
++ Competitve Programming
 + React.js
 + Next.js
 
 
-## 💒 Educatoin
+## Educatoin
 I have experienced education from different countries.
 
 
