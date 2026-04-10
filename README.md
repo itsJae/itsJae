@@ -21,10 +21,9 @@
 I have experienced education from different countries.
 
 
-+ Pungdong Middle School, South Korea.
-+ Brookswood Secondary School, Canada.
-+ Singapore Institute of Management, Singapore.
 + Bachelor of Comptuer Science @University of New South Wales, Australia.
++ Singapore Institute of Management, Singapore.
++ Brookswood Secondary School, Canada.
 
 ## 👀 Visit Other Platforms than Github
 + <https://jaylog.hashnode.dev/> - Personal blog
