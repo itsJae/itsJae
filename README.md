@@ -2,6 +2,7 @@
 
 ## Skills
 
++ C++
 + Python
 + MySQL
 + C
@@ -10,7 +11,6 @@
 
 ## Focusing to learn
 + Data Structure and Algorithms
-+ C++
 + Mongo DB
 + React.js
 + Next.js
