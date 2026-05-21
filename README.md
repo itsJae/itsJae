@@ -11,21 +11,18 @@
 
 ## Focusing to learn
 + Data Structure and Algorithms
++ Competitve Programming
 + Mongo DB
 + React.js
 + Next.js
-+ Competitve Programming
 
 
 ## Educatoin
-I have experienced education from different countries.
-
-
 + Bachelor of Comptuer Science @University of New South Wales, Australia.
 + Singapore Institute of Management, Singapore.
 + Brookswood Secondary School, Canada.
 
-## 👀 Visit Other Platforms than Github
+## Visit Other Platforms than Github
 + <https://jaylog.hashnode.dev/> - Personal blog
 + <https://leetcode.com/u/mujaeim/> - LeetCode
 
