@@ -1,6 +1,6 @@
 # Lim Woojae 
 
-+ Bachelor of Computer Science @ **UNSW**
++ 1st Year Bachelor of Computer Science @ **UNSW**
 + Education Subcommittee of Computer Science and Engineering Society (CSESoc) @ **UNSW**
 + Project Subcommittee of Software Development Society (DevSoc) @ **UNSW**
 
